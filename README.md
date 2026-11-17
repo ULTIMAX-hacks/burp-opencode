@@ -1,6 +1,6 @@
 # OpenCode + Burp Suite MCP
 
-![OpenCode connected to Burp Suite](assets/connecting-opencode-to-burp-suite.png)
+![OpenCode connected to Burp Suite](Connecting OpenCode to Burp Suite.png)
 
 Connect [OpenCode](https://opencode.ai/) to [Burp Suite](https://portswigger.net/burp) through the Model Context Protocol (MCP).
 
